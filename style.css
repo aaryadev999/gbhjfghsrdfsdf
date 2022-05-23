@@ -1,0 +1,28 @@
+.name_jhonny{
+    font-size: larger;
+    width: 1655px;
+    height: 100px;
+    box-shadow: 5px 5px 5px green;
+}
+.i_like_wizzy{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    color: red;
+    font-style: italic;
+}
+
+.copyright_jhonny_jhonny_wizzy{
+    position: static;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    line-height: 3;
+    text-align: center;
+    margin-top: 07.52in;
+}
+canvas{
+    border:10px dotted green;
+    box-shadow: 5px 5px 5px blue;
+    border-radius: 10px;
+}
